@@ -59,6 +59,8 @@ Subscribers are mostly male, customers' gender are mostly unknown and weekend tr
 Figure 5: Trips by Gender by Weekday
 
 
+The dashboard for the five visualization is presented below.
+
 ![Bikesharing Dashboard](https://user-images.githubusercontent.com/91093413/148690494-9b630707-6e88-4c41-ab7c-a8a3a316588d.png)
 
 Figure 6: Bikesharing Dashboard
