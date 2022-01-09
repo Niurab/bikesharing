@@ -10,7 +10,9 @@ Pandas was utilized to change the "tripduration" column from an integer to datet
 
 Finally, the visualizations from the module was used to create the final presentation and analysis to pitch to investors.
 
+
 ## Results:
+
 
 ### Checkout Times for Users
 
@@ -20,8 +22,10 @@ Checkout times for users are presented in the diagram below.
 
 Figure 1: Checkout times for Users
 
+
 ### Checkout Times by Gender
-The pattern above is the same regardless of gender.
+
+More females take bike rides.
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/91093413/148690191-b9cad8f7-fb25-4885-9138-d29164496af1.png)
 
@@ -39,7 +43,7 @@ Figure 3: Trips by Weekday per Hour
 
 ### Trips by Gender(Weekday per Hour)
 
-The heatmap shows the trip pattern is the same regardless of gender though the number of male is higher.
+The heatmap shows the trip pattern is the same regardless of gender.
 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/91093413/148690312-faf72a35-d295-4ea8-8286-7bf355fef3cc.png)
 
