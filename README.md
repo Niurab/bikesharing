@@ -91,6 +91,9 @@ The results above give insight into bike utilization in New York Citibike bike s
 Further analysis is needed to determine if there are locations that are completely unused, the patterns of trips with heaviest use and a comparison of weekday and weekend trips durations.
 
 
+[link to dashboard](https://public.tableau.com/app/profile/ganiu8609/viz/Niu/BikesharingDashboard?publish=yes)
+
+
 ------------
 
 Tableau Public
