@@ -10,7 +10,7 @@ Pandas was utilized to change the "tripduration" column from an integer to datet
 
 Finally, the visualizations from the module was used to create the final presentation and analysis to pitch to investors.
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results:
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/91093413/148690154-5c381f5b-0ea1-4d9a-a8b7-3395cc273edf.png)
 
@@ -46,12 +46,13 @@ Figure 6: Bikesharing Dashboard
 
 ### Module Vizualization
 
-
+In the image below, bikes with higher utilization level, do have larger bubble.
 
 ![Bike Utilization](https://user-images.githubusercontent.com/91093413/148690764-fe11c18c-d376-46db-98db-4a66fd0da587.png)
 
 Figure 7: Bike Utilization
 
+Vsualization images from the module are presented in the dashdoard below. August peak hours are between 5:00pm and 7:00pm while the ared diagram shows the later the birth year, the longer the ride duration.
 
 ![Module Dashboard](https://user-images.githubusercontent.com/91093413/148690743-50ee78f6-04ae-4202-850b-9953bab75b9c.png)
 
