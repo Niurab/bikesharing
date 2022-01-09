@@ -35,6 +35,7 @@ Figure 4: Trips by Gender(Weekday per Hour)
 Figure 5: Trips by Gender by Weekday
 
 
+![Bikesharing Dashboard](https://user-images.githubusercontent.com/91093413/148690494-9b630707-6e88-4c41-ab7c-a8a3a316588d.png)
 
 Figure 6: Bikesharing Dashboard
 
