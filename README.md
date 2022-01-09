@@ -57,7 +57,9 @@ Figure 8: Module dashboard
 
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
+
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
 
@@ -65,4 +67,5 @@ Figure 8: Module dashboard
 
 
 ------------
+
 Tableau Public
