@@ -12,26 +12,43 @@ Finally, the visualizations from the module was used to create the final present
 
 ## Results:
 
+### Checkout Times for Users
+
+Most rides are 20 minutes or less with majority of the rides being less than an hour.
+
 ![Checkout Times for Users](https://user-images.githubusercontent.com/91093413/148690154-5c381f5b-0ea1-4d9a-a8b7-3395cc273edf.png)
 
 Figure 1: Checkout times for Users
 
-
+### Checkout Times by Gender
+The pattern above is the same regardless of gender.
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/91093413/148690191-b9cad8f7-fb25-4885-9138-d29164496af1.png)
 
 Figure 2: Checkout Times by Gender
 
 
+### Trips by Weekday Per Hour
+
+The heatmap shows clear patterns of use for morning commute, evening commute and all day long on weekends.
+
 ![Trips by Weekday Per Hour](https://user-images.githubusercontent.com/91093413/148690267-b4f53f5f-53be-4462-9f86-13f63ff97c36.png)
 
 Figure 3: Trips by Weekday per Hour
 
 
+### Trips by Gender(Weekday per Hour)
+
+The heatmap shows the trip pattern is the same regardless of gender though the number of male is higher.
+
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/91093413/148690312-faf72a35-d295-4ea8-8286-7bf355fef3cc.png)
 
 Figure 4: Trips by Gender(Weekday per Hour)
 
+
+### Trips by Gender by Weekday
+
+Subscribers are mostly male, customers' gender are mostly unknown and weekend trips are evenly split for subscribers and customers.
 
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/91093413/148690338-574068c3-ec0b-4757-8ec5-8c871de75a43.png)
 
@@ -63,11 +80,9 @@ Figure 8: Module dashboard
 
 ## Summary: 
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+The results above give insight into bike utilization in New York Citibike bike sharing program. The analysis shows the bike utilization patterns by time and by gender enhancing utilization rates to be predicted based on time of day and location.Also, there are more morning and afternoon commute during the week and a more evenly spread of rides through the day on weekend.
 
-
-
-
+Further analysis is needed to determine if there are locations that are completely unused, the patterns of trips with heaviest use and a comparison of weekday and weekend trips durations.
 
 
 ------------
