@@ -41,4 +41,28 @@ Figure 6: Bikesharing Dashboard
 
 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+### Module Vizualization
+
+
+
+![Bike Utilization](https://user-images.githubusercontent.com/91093413/148690764-fe11c18c-d376-46db-98db-4a66fd0da587.png)
+
+Figure 7: Bike Utilization
+
+
+![Module Dashboard](https://user-images.githubusercontent.com/91093413/148690743-50ee78f6-04ae-4202-850b-9953bab75b9c.png)
+
+Figure 8: Module dashboard
+
+
+
+
+## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+
+
+
+
+
+------------
+Tableau Public
