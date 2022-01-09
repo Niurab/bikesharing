@@ -14,7 +14,7 @@ Finally, the visualizations from the module was used to create the final present
 
 ### Checkout Times for Users
 
-Most rides are 20 minutes or less with majority of the rides being less than an hour.
+Checkout times for users are presented in the diagram below.
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/91093413/148690154-5c381f5b-0ea1-4d9a-a8b7-3395cc273edf.png)
 
