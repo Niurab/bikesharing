@@ -4,10 +4,13 @@
 
 ### Explain the purpose of this analysis.
 
+The purpose of this analysis is to convince investors that bike-sharing program in Des Moines, Iowa is a solid business proposal using bike trip analysis.
 
+Pandas was utilized to change the "tripduration" column from an integer to datetime datatype. Thereafter, the new datatype was used to show length of time bikes are checked for riders and genders, number of bike trips for riders and genders for each hour of each day of the week and the number of bike trips for each type of users and gender for wach day of the week.
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Finally, the visualizations from the module was used to create the final presentation and analysis to pitch to investors.
 
+## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/91093413/148690154-5c381f5b-0ea1-4d9a-a8b7-3395cc273edf.png)
 
